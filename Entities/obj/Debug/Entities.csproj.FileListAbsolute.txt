@@ -1,0 +1,18 @@
+C:\Users\GONULATES\Desktop\Belgeler\Calismalar\C# Layers\KafeOtomasyon\Entities\bin\Debug\Entities.dll
+C:\Users\GONULATES\Desktop\Belgeler\Calismalar\C# Layers\KafeOtomasyon\Entities\bin\Debug\Entities.pdb
+C:\Users\GONULATES\Desktop\Belgeler\Calismalar\C# Layers\KafeOtomasyon\Entities\bin\Debug\Core.dll
+C:\Users\GONULATES\Desktop\Belgeler\Calismalar\C# Layers\KafeOtomasyon\Entities\bin\Debug\Core.pdb
+C:\Users\GONULATES\Desktop\Belgeler\Calismalar\C# Layers\KafeOtomasyon\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\GONULATES\Desktop\Belgeler\Calismalar\C# Layers\KafeOtomasyon\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\GONULATES\Desktop\Belgeler\Calismalar\C# Layers\KafeOtomasyon\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\GONULATES\Desktop\Belgeler\Calismalar\C# Layers\KafeOtomasyon\Entities\obj\Debug\Entities.dll
+C:\Users\GONULATES\Desktop\Belgeler\Calismalar\C# Layers\KafeOtomasyon\Entities\obj\Debug\Entities.pdb
+C:\Users\SuffaTech\Desktop\Yazilim Muhendisligine Giris\FRANCHISE-main\Entities\bin\Debug\Entities.dll
+C:\Users\SuffaTech\Desktop\Yazilim Muhendisligine Giris\FRANCHISE-main\Entities\bin\Debug\Entities.pdb
+C:\Users\SuffaTech\Desktop\Yazilim Muhendisligine Giris\FRANCHISE-main\Entities\bin\Debug\Core.dll
+C:\Users\SuffaTech\Desktop\Yazilim Muhendisligine Giris\FRANCHISE-main\Entities\bin\Debug\Core.pdb
+C:\Users\SuffaTech\Desktop\Yazilim Muhendisligine Giris\FRANCHISE-main\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\SuffaTech\Desktop\Yazilim Muhendisligine Giris\FRANCHISE-main\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\SuffaTech\Desktop\Yazilim Muhendisligine Giris\FRANCHISE-main\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\SuffaTech\Desktop\Yazilim Muhendisligine Giris\FRANCHISE-main\Entities\obj\Debug\Entities.dll
+C:\Users\SuffaTech\Desktop\Yazilim Muhendisligine Giris\FRANCHISE-main\Entities\obj\Debug\Entities.pdb
